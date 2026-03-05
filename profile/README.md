@@ -10,9 +10,11 @@ u64 is a not-for-profit open source project based in Northants, UK. Our goal is 
 
 ## Projects
 
+All projects target the ESP32 ecosystem.
+
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Nysa** | Lightweight HTTP server for ESP32 | Soon |
+| **Nysa** | Lightweight HTTP server | Soon |
 | **Sudety** | Secure reverse proxy with auto TLS | Planned |
 
 ## Support
