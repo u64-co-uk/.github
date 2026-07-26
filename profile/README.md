@@ -1,21 +1,19 @@
 # u64
 
-**tiny hardware. big services.**
-
-Open source web servers and services for microcontrollers, built for the ESP32 ecosystem.
+Open source web services for restrained hardware environments, built for the ESP32 ecosystem and low-power UNIX boards.
 
 ## About
 
-u64 is a not-for-profit open source project based in Northants, UK. Our goal is to minimise power usage and create truly free infrastructure that can run entirely on off-grid power systems — solar, battery, or whatever you have available.
+u64 is a not-for-profit open source project based in Northants, UK. We build useful web infrastructure for ESP32 systems and low-power UNIX boards, keeping runtime requirements and energy use deliberately small.
 
 ## Projects
 
-All projects target the ESP32 ecosystem.
+Our projects target restrained hardware environments, from microcontrollers to low-power UNIX boards.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Nysa** | Lightweight HTTP server | Soon |
-| **Sudety** | Secure reverse proxy with auto TLS | Planned |
+| [**tit**](https://github.com/mchalunderscore/tit) | Small, self-hosted collaborative development environment for Git | v0.1.0 |
+| [**Nysa**](https://github.com/u64-co-uk/nysa) | Lightweight HTTP server for ESP32-WROOM-32 | In development |
 
 ## Support
 
